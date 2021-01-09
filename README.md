@@ -1,0 +1,1 @@
+# Solution hub for college works
