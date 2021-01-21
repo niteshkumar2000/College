@@ -1,6 +1,10 @@
+import networkx as nx
+import matplotlib.pyplot as plt
+
 graph = {}
 open = []
 close = []
+graph_diagram = nx.Graph()
 
 def addEdge(parent, child, cost):
     if parent not in graph:
@@ -13,6 +17,15 @@ def get_child_nodes(node):
 def add_path(ds, node):
     if node not in ds:
         ds.append(node)
+
+def compute_cost():
+    cost = 0
+    parent = close.pop(0)
+    for child in close:
+        cost += graph[parent][child]
+        graph_diagram.add_edge(parent, child, weight=graph[parent][child])
+        parent = child
+    return cost
 
 def dfs(start_node, goal_node):
     if start_node == goal_node:
@@ -34,7 +47,7 @@ def bfs(start_node, goal_node):
         add_path(close, start_node)
         bfs(open.pop(0), goal_node)
 
-if __name__ == '__main__':
+def create_graph():
     addEdge('a', 'b', 36)
     addEdge('a', 'c', 61)
     addEdge('b', 'd', 31)
@@ -49,8 +62,16 @@ if __name__ == '__main__':
     addEdge('i', 'j', 45)
     addEdge('j', 'k', 36)
     addEdge('k', 'm', 32)
-    addEdge('f', 'k', 112)
     addEdge('f', 'j', 122)
-    bfs('a', 'm')
-    print(close)
+    addEdge('f', 'k', 112)
 
+def show_graph():
+    nx.draw(graph_diagram, with_labels=True)
+    plt.show()
+
+if __name__ == '__main__':
+    create_graph()
+    print(graph)
+    dfs('a', 'm')
+    print(compute_cost())
+    show_graph()
