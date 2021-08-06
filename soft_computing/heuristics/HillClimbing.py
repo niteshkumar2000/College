@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import math
 import networkx as nx
-from networkx.drawing.nx_agraph import graphviz_layout
+# from networkx.drawing.nx_agraph import graphviz_layout
 import matplotlib.pyplot as plt
 
 def reversal_node(df_row, current_node):
@@ -81,4 +81,5 @@ print("=======OPEN=========")
 print(result['current_open'])
 if result['success']:
     path = get_all_edges(result['expanded_node'], result['parent'], end_node, edges)
-    print_graph(path)
+    print(path)
+    # print_graph(path)

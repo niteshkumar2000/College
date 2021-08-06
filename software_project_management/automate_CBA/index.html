@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<head>
+    <title>Cost Benifit Analysis</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"
+        integrity="sha512-rKFvwjvE4liWPlFnvH4ZhRDfNZ9FOpdkD/BU5gAIA3VS3vOQrQ5BjKgbO3kxebKhHdHcNUHLqxQYSoxee9UwgA=="
+        crossorigin="anonymous"></script>
+</head>
+<body>
+    <h1>Cost Benifit Analysis Automation</h1>
+    <form class="form-inline">
+        <div class="form-group">
+            <label for="files">Upload a CSV formatted file:</label>
+            <input type="file" id="files" class="form-control" accept=".csv" required />
+        </div>
+        <div class="form-group">
+            <button type="submit" id="submit-file" class="btn btn-primary">Upload File</button>
+        </div>
+    </form>
+    <div id="parsed_csv_list">
+    </div>
+    <div id="netprofit">
+    </div>
+    <script>
+        $('#submit-file').on("click", function (e) {
+            e.preventDefault();
+            $('#files').parse({
+                config: {
+                    delimiter: "auto",
+                    complete: displayHTMLTable,
+                },
+                before: function (file, inputElem) {
+                    //console.log("Parsing file...", file);
+                },
+                error: function (err, file) {
+                    //console.log("ERROR:", err, file);
+                },
+                complete: function () {
+                    //console.log("Done with all files");
+                }
+            });
+        });
+        function displayHTMLTable(results) {
+            var table = "<table class='table'>";
+            var data = results.data;
+            
+            for (i = 0; i < data.length; i++) {
+                table += "<tr>";
+                var row = data[i];
+                var cells = row.join(",").split(",");
+
+                for (j = 0; j < cells.length; j++) {
+                    table += "<td>";
+                    table += cells[j];
+                    table += "</th>";
+                }
+                table += "</tr>";
+            }
+            table += "</table>";
+            $("#parsed_csv_list").html(table);
+            calculateNetProfit(data)
+        }
+        function calculateNetProfit(data) {
+            let netProfit = [0, 0]
+            for(let i = 1; i < data.length; i++){
+                var row = data[i];
+                let cells = row.join(",").split(",");
+                for (j = 1; j < cells.length; j++) {
+                    netProfit[j-1] += parseInt(cells[j], 10);
+                }
+            }
+            var content = '<h1> Net Profit </h1> <h2> Project A ' + netProfit[0]+ '</h2>' +  '<h2> Project B ' + netProfit[1]+ '</h2>';    
+            $('#netprofit').html(content)
+        }
+    </script>
+</body>

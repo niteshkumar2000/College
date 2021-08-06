@@ -1,0 +1,972 @@
+year,category,name,link
+1901,physics,Wilhelm Röntgen,/wiki/Wilhelm_R%C3%B6ntgen
+1901,chemistry,Jacobus Henricus van 't Hoff,/wiki/Jacobus_Henricus_van_%27t_Hoff
+1901,medicine,Emil Adolf von Behring,/wiki/Emil_Adolf_von_Behring
+1901,literature,Sully Prudhomme,/wiki/Sully_Prudhomme
+1901,peace,Henry Dunant,/wiki/Henry_Dunant
+1901,peace,Frédéric Passy,/wiki/Fr%C3%A9d%C3%A9ric_Passy
+1902,physics,Hendrik Lorentz,/wiki/Hendrik_Lorentz
+1902,physics,Pieter Zeeman,/wiki/Pieter_Zeeman
+1902,chemistry,Hermann Emil Fischer,/wiki/Hermann_Emil_Fischer
+1902,medicine,Ronald Ross,/wiki/Ronald_Ross
+1902,literature,Theodor Mommsen,/wiki/Theodor_Mommsen
+1902,peace,Élie Ducommun,/wiki/%C3%89lie_Ducommun
+1902,peace,Charles Albert Gobat,/wiki/Charles_Albert_Gobat
+1903,physics,Henri Becquerel,/wiki/Henri_Becquerel
+1903,physics,Pierre Curie,/wiki/Pierre_Curie
+1903,physics,Marie Curie,/wiki/Marie_Curie
+1903,chemistry,Svante Arrhenius,/wiki/Svante_Arrhenius
+1903,medicine,Niels Ryberg Finsen,/wiki/Niels_Ryberg_Finsen
+1903,literature,Bjørnstjerne Bjørnson,/wiki/Bj%C3%B8rnstjerne_Bj%C3%B8rnson
+1903,peace,Randal Cremer,/wiki/Randal_Cremer
+1904,physics,Lord Rayleigh,"/wiki/John_Strutt,_3rd_Baron_Rayleigh"
+1904,chemistry,William Ramsay,/wiki/William_Ramsay
+1904,medicine,Ivan Pavlov,/wiki/Ivan_Pavlov
+1904,literature,Frédéric Mistral,/wiki/Fr%C3%A9d%C3%A9ric_Mistral
+1904,literature,José Echegaray,/wiki/Jos%C3%A9_Echegaray
+1904,peace,Institut de Droit International,/wiki/Institut_de_Droit_International
+1905,physics,Philipp Lenard,/wiki/Philipp_Lenard
+1905,chemistry,Adolf von Baeyer,/wiki/Adolf_von_Baeyer
+1905,medicine,Robert Koch,/wiki/Robert_Koch
+1905,literature,Henryk Sienkiewicz,/wiki/Henryk_Sienkiewicz
+1905,peace,Bertha von Suttner,/wiki/Bertha_von_Suttner
+1906,physics,J. J. Thomson,/wiki/J._J._Thomson
+1906,chemistry,Henri Moissan,/wiki/Henri_Moissan
+1906,medicine,Camillo Golgi,/wiki/Camillo_Golgi
+1906,medicine,Santiago Ramón y Cajal,/wiki/Santiago_Ram%C3%B3n_y_Cajal
+1906,literature,Giosuè Carducci,/wiki/Giosu%C3%A8_Carducci
+1906,peace,Theodore Roosevelt,/wiki/Theodore_Roosevelt
+1907,physics,Albert Abraham Michelson,/wiki/Albert_Abraham_Michelson
+1907,chemistry,Eduard Buchner,/wiki/Eduard_Buchner
+1907,medicine,Charles Louis Alphonse Laveran,/wiki/Charles_Louis_Alphonse_Laveran
+1907,literature,Rudyard Kipling,/wiki/Rudyard_Kipling
+1907,peace,Ernesto Teodoro Moneta,/wiki/Ernesto_Teodoro_Moneta
+1907,peace,Louis Renault,/wiki/Louis_Renault_(jurist)
+1908,physics,Gabriel Lippmann,/wiki/Gabriel_Lippmann
+1908,chemistry,Ernest Rutherford,/wiki/Ernest_Rutherford
+1908,medicine,Élie Metchnikoff,/wiki/%C3%89lie_Metchnikoff
+1908,medicine,Paul Ehrlich,/wiki/Paul_Ehrlich
+1908,literature,Rudolf Christoph Eucken,/wiki/Rudolf_Christoph_Eucken
+1908,peace,Klas Pontus Arnoldson,/wiki/Klas_Pontus_Arnoldson
+1908,peace,Fredrik Bajer,/wiki/Fredrik_Bajer
+1909,physics,Karl Ferdinand Braun,/wiki/Karl_Ferdinand_Braun
+1909,physics,Guglielmo Marconi,/wiki/Guglielmo_Marconi
+1909,chemistry,Wilhelm Ostwald,/wiki/Wilhelm_Ostwald
+1909,medicine,Emil Theodor Kocher,/wiki/Emil_Theodor_Kocher
+1909,literature,Selma Lagerlöf,/wiki/Selma_Lagerl%C3%B6f
+1909,peace,Auguste Marie François Beernaert,/wiki/Auguste_Marie_Fran%C3%A7ois_Beernaert
+1909,peace,Paul-Henri-Benjamin d'Estournelles de Constant,/wiki/Paul-Henri-Benjamin_d%27Estournelles_de_Constant
+1910,physics,Johannes Diderik van der Waals,/wiki/Johannes_Diderik_van_der_Waals
+1910,chemistry,Otto Wallach,/wiki/Otto_Wallach
+1910,medicine,Albrecht Kossel,/wiki/Albrecht_Kossel
+1910,literature,Paul Heyse,/wiki/Paul_Heyse
+1910,peace,International Peace Bureau,/wiki/International_Peace_Bureau
+1911,physics,Wilhelm Wien,/wiki/Wilhelm_Wien
+1911,chemistry,Marie Skłodowska-Curie,/wiki/Marie_Sk%C5%82odowska-Curie
+1911,medicine,Allvar Gullstrand,/wiki/Allvar_Gullstrand
+1911,literature,Maurice Maeterlinck,/wiki/Maurice_Maeterlinck
+1911,peace,Tobias Asser,/wiki/Tobias_Asser
+1911,peace,Alfred Hermann Fried,/wiki/Alfred_Hermann_Fried
+1912,physics,Gustaf Dalén,/wiki/Gustaf_Dal%C3%A9n
+1912,chemistry,Victor Grignard,/wiki/Victor_Grignard
+1912,chemistry,Paul Sabatier,/wiki/Paul_Sabatier_(chemist)
+1912,medicine,Alexis Carrel,/wiki/Alexis_Carrel
+1912,literature,Gerhart Hauptmann,/wiki/Gerhart_Hauptmann
+1912,peace,Elihu Root,/wiki/Elihu_Root
+1913,physics,Heike Kamerlingh Onnes,/wiki/Heike_Kamerlingh_Onnes
+1913,chemistry,Alfred Werner,/wiki/Alfred_Werner
+1913,medicine,Charles Richet,/wiki/Charles_Richet
+1913,literature,Rabindranath Tagore,/wiki/Rabindranath_Tagore
+1913,peace,Henri La Fontaine,/wiki/Henri_La_Fontaine
+1914,physics,Max von Laue,/wiki/Max_von_Laue
+1914,chemistry,Theodore William Richards,/wiki/Theodore_William_Richards
+1914,medicine,Robert Bárány,/wiki/Robert_B%C3%A1r%C3%A1ny
+1915,physics,William Henry Bragg,/wiki/William_Henry_Bragg
+1915,physics,William Lawrence Bragg,/wiki/William_Lawrence_Bragg
+1915,chemistry,Richard Willstätter,/wiki/Richard_Willst%C3%A4tter
+1915,literature,Romain Rolland,/wiki/Romain_Rolland
+1916,literature,Verner von Heidenstam,/wiki/Verner_von_Heidenstam
+1917,physics,Charles Glover Barkla,/wiki/Charles_Glover_Barkla
+1917,literature,Karl Adolph Gjellerup,/wiki/Karl_Adolph_Gjellerup
+1917,literature,Henrik Pontoppidan,/wiki/Henrik_Pontoppidan
+1917,peace,International Committee of the Red Cross,/wiki/International_Committee_of_the_Red_Cross
+1918,physics,Max Planck,/wiki/Max_Planck
+1918,chemistry,Fritz Haber,/wiki/Fritz_Haber
+1919,physics,Johannes Stark,/wiki/Johannes_Stark
+1919,medicine,Jules Bordet,/wiki/Jules_Bordet
+1919,literature,Carl Spitteler,/wiki/Carl_Spitteler
+1919,peace,Woodrow Wilson,/wiki/Woodrow_Wilson
+1920,physics,Charles Édouard Guillaume,/wiki/Charles_%C3%89douard_Guillaume
+1920,chemistry,Walther Nernst,/wiki/Walther_Nernst
+1920,medicine,August Krogh,/wiki/August_Krogh
+1920,literature,Knut Hamsun,/wiki/Knut_Hamsun
+1920,peace,Léon Bourgeois,/wiki/L%C3%A9on_Bourgeois
+1921,physics,Albert Einstein,/wiki/Albert_Einstein
+1921,chemistry,Frederick Soddy,/wiki/Frederick_Soddy
+1921,literature,Anatole France,/wiki/Anatole_France
+1921,peace,Hjalmar Branting,/wiki/Hjalmar_Branting
+1921,peace,Christian Lous Lange,/wiki/Christian_Lous_Lange
+1922,physics,Niels Bohr,/wiki/Niels_Bohr
+1922,chemistry,Francis William Aston,/wiki/Francis_William_Aston
+1922,medicine,Archibald Hill,/wiki/Archibald_Hill
+1922,medicine,Otto Fritz Meyerhof,/wiki/Otto_Fritz_Meyerhof
+1922,literature,Jacinto Benavente,/wiki/Jacinto_Benavente
+1922,peace,Fridtjof Nansen,/wiki/Fridtjof_Nansen
+1923,physics,Robert Andrews Millikan,/wiki/Robert_Andrews_Millikan
+1923,chemistry,Fritz Pregl,/wiki/Fritz_Pregl
+1923,medicine,Frederick Banting,/wiki/Frederick_Banting
+1923,medicine,John James Rickard Macleod,/wiki/John_James_Rickard_Macleod
+1923,literature,W. B. Yeats,/wiki/W._B._Yeats
+1924,physics,Manne Siegbahn,/wiki/Manne_Siegbahn
+1924,medicine,Willem Einthoven,/wiki/Willem_Einthoven
+1924,literature,Władysław Reymont,/wiki/W%C5%82adys%C5%82aw_Reymont
+1925,physics,James Franck,/wiki/James_Franck
+1925,physics,Gustav Ludwig Hertz,/wiki/Gustav_Ludwig_Hertz
+1925,chemistry,Richard Adolf Zsigmondy,/wiki/Richard_Adolf_Zsigmondy
+1925,literature,George Bernard Shaw,/wiki/George_Bernard_Shaw
+1925,peace,Austen Chamberlain,/wiki/Austen_Chamberlain
+1925,peace,Charles G. Dawes,/wiki/Charles_G._Dawes
+1926,physics,Jean Baptiste Perrin,/wiki/Jean_Baptiste_Perrin
+1926,chemistry,Theodor Svedberg,/wiki/Theodor_Svedberg
+1926,medicine,Johannes Fibiger,/wiki/Johannes_Fibiger
+1926,literature,Grazia Deledda,/wiki/Grazia_Deledda
+1926,peace,Aristide Briand,/wiki/Aristide_Briand
+1926,peace,Gustav Stresemann,/wiki/Gustav_Stresemann
+1927,physics,Arthur Compton,/wiki/Arthur_Compton
+1927,physics,Charles Thomson Rees Wilson,/wiki/Charles_Thomson_Rees_Wilson
+1927,chemistry,Heinrich Otto Wieland,/wiki/Heinrich_Otto_Wieland
+1927,medicine,Julius Wagner-Jauregg,/wiki/Julius_Wagner-Jauregg
+1927,literature,Henri Bergson,/wiki/Henri_Bergson
+1927,peace,Ferdinand Buisson,/wiki/Ferdinand_Buisson
+1927,peace,Ludwig Quidde,/wiki/Ludwig_Quidde
+1928,physics,Owen Willans Richardson,/wiki/Owen_Willans_Richardson
+1928,chemistry,Adolf Otto Reinhold Windaus,/wiki/Adolf_Otto_Reinhold_Windaus
+1928,medicine,Charles Nicolle,/wiki/Charles_Nicolle
+1928,literature,Sigrid Undset,/wiki/Sigrid_Undset
+1929,physics,Louis de Broglie,/wiki/Louis_de_Broglie
+1929,chemistry,Arthur Harden,/wiki/Arthur_Harden
+1929,chemistry,Hans von Euler-Chelpin,/wiki/Hans_von_Euler-Chelpin
+1929,medicine,Christiaan Eijkman,/wiki/Christiaan_Eijkman
+1929,medicine,Frederick Gowland Hopkins,/wiki/Frederick_Gowland_Hopkins
+1929,literature,Thomas Mann,/wiki/Thomas_Mann
+1929,peace,Frank B. Kellogg,/wiki/Frank_B._Kellogg
+1930,physics,C. V. Raman,/wiki/C._V._Raman
+1930,chemistry,Hans Fischer,/wiki/Hans_Fischer
+1930,medicine,Karl Landsteiner,/wiki/Karl_Landsteiner
+1930,literature,Sinclair Lewis,/wiki/Sinclair_Lewis
+1930,peace,Nathan Söderblom,/wiki/Nathan_S%C3%B6derblom
+1931,chemistry,Carl Bosch,/wiki/Carl_Bosch
+1931,chemistry,Friedrich Bergius,/wiki/Friedrich_Bergius
+1931,medicine,Otto Heinrich Warburg,/wiki/Otto_Heinrich_Warburg
+1931,literature,Erik Axel Karlfeldt,/wiki/Erik_Axel_Karlfeldt
+1931,peace,Jane Addams,/wiki/Jane_Addams
+1931,peace,Nicholas Murray Butler,/wiki/Nicholas_Murray_Butler
+1932,physics,Werner Heisenberg,/wiki/Werner_Heisenberg
+1932,chemistry,Irving Langmuir,/wiki/Irving_Langmuir
+1932,medicine,Charles Scott Sherrington,/wiki/Charles_Scott_Sherrington
+1932,medicine,Edgar Adrian,"/wiki/Edgar_Adrian,_1st_Baron_Adrian"
+1932,literature,John Galsworthy,/wiki/John_Galsworthy
+1933,physics,Erwin Schrödinger,/wiki/Erwin_Schr%C3%B6dinger
+1933,physics,Paul Dirac,/wiki/Paul_Dirac
+1933,medicine,Thomas Hunt Morgan,/wiki/Thomas_Hunt_Morgan
+1933,literature,Ivan Bunin,/wiki/Ivan_Bunin
+1933,peace,Norman Angell,/wiki/Norman_Angell
+1934,chemistry,Harold Urey,/wiki/Harold_Urey
+1934,medicine,George Whipple,/wiki/George_Whipple
+1934,medicine,George Minot,/wiki/George_Minot
+1934,medicine,William P. Murphy,/wiki/William_P._Murphy
+1934,literature,Luigi Pirandello,/wiki/Luigi_Pirandello
+1934,peace,Arthur Henderson,/wiki/Arthur_Henderson
+1935,physics,James Chadwick,/wiki/James_Chadwick
+1935,chemistry,Frédéric Joliot-Curie,/wiki/Fr%C3%A9d%C3%A9ric_Joliot-Curie
+1935,chemistry,Irène Joliot-Curie,/wiki/Ir%C3%A8ne_Joliot-Curie
+1935,medicine,Hans Spemann,/wiki/Hans_Spemann
+1935,peace,Carl von Ossietzky,/wiki/Carl_von_Ossietzky
+1936,physics,Victor Francis Hess,/wiki/Victor_Francis_Hess
+1936,physics,Carl David Anderson,/wiki/Carl_David_Anderson
+1936,chemistry,Peter Debye,/wiki/Peter_Debye
+1936,medicine,Henry Hallett Dale,/wiki/Henry_Hallett_Dale
+1936,medicine,Otto Loewi,/wiki/Otto_Loewi
+1936,literature,Eugene O'Neill,/wiki/Eugene_O%27Neill
+1936,peace,Carlos Saavedra Lamas,/wiki/Carlos_Saavedra_Lamas
+1937,physics,Clinton Davisson,/wiki/Clinton_Davisson
+1937,physics,George Paget Thomson,/wiki/George_Paget_Thomson
+1937,chemistry,Norman Haworth,/wiki/Norman_Haworth
+1937,chemistry,Paul Karrer,/wiki/Paul_Karrer
+1937,medicine,Albert Szent-Györgyi,/wiki/Albert_Szent-Gy%C3%B6rgyi
+1937,literature,Roger Martin du Gard,/wiki/Roger_Martin_du_Gard
+1937,peace,The Viscount Cecil of Chelwood,"/wiki/Robert_Cecil,_1st_Viscount_Cecil_of_Chelwood"
+1938,physics,Enrico Fermi,/wiki/Enrico_Fermi
+1938,chemistry,Richard Kuhn,/wiki/Richard_Kuhn
+1938,chemistry,[a],#cite_note-A-14
+1938,medicine,Corneille Heymans,/wiki/Corneille_Heymans
+1938,literature,Pearl S. Buck,/wiki/Pearl_S._Buck
+1938,peace,Nansen International Office For Refugees,/wiki/Office_international_Nansen_pour_les_r%C3%A9fugi%C3%A9s
+1939,physics,Ernest Lawrence,/wiki/Ernest_Lawrence
+1939,chemistry,Adolf Butenandt,/wiki/Adolf_Butenandt
+1939,chemistry,[a],#cite_note-A-14
+1939,chemistry,Leopold Ružička,/wiki/Leopold_Ru%C5%BEi%C4%8Dka
+1939,medicine,Gerhard Domagk,/wiki/Gerhard_Domagk
+1939,medicine,[a],#cite_note-A-14
+1939,literature,Frans Eemil Sillanpää,/wiki/Frans_Eemil_Sillanp%C3%A4%C3%A4
+1943,physics,Otto Stern,/wiki/Otto_Stern
+1943,chemistry,George de Hevesy,/wiki/George_de_Hevesy
+1943,medicine,Henrik Dam,/wiki/Henrik_Dam
+1943,medicine,Edward Adelbert Doisy,/wiki/Edward_Adelbert_Doisy
+1944,physics,Isidor Isaac Rabi,/wiki/Isidor_Isaac_Rabi
+1944,chemistry,Otto Hahn,/wiki/Otto_Hahn
+1944,medicine,Joseph Erlanger,/wiki/Joseph_Erlanger
+1944,medicine,Herbert Spencer Gasser,/wiki/Herbert_Spencer_Gasser
+1944,literature,Johannes Vilhelm Jensen,/wiki/Johannes_Vilhelm_Jensen
+1944,peace,International Committee of the Red Cross,/wiki/International_Committee_of_the_Red_Cross
+1945,physics,Wolfgang Pauli,/wiki/Wolfgang_Pauli
+1945,chemistry,Artturi Ilmari Virtanen,/wiki/Artturi_Ilmari_Virtanen
+1945,medicine,Alexander Fleming,/wiki/Alexander_Fleming
+1945,medicine,Ernst Boris Chain,/wiki/Ernst_Boris_Chain
+1945,medicine,Howard Florey,/wiki/Howard_Florey
+1945,literature,Gabriela Mistral,/wiki/Gabriela_Mistral
+1945,peace,Cordell Hull,/wiki/Cordell_Hull
+1946,physics,Percy Williams Bridgman,/wiki/Percy_Williams_Bridgman
+1946,chemistry,James B. Sumner,/wiki/James_B._Sumner
+1946,chemistry,John Howard Northrop,/wiki/John_Howard_Northrop
+1946,chemistry,Wendell Meredith Stanley,/wiki/Wendell_Meredith_Stanley
+1946,medicine,Hermann Joseph Muller,/wiki/Hermann_Joseph_Muller
+1946,literature,Hermann Hesse,/wiki/Hermann_Hesse
+1946,peace,Emily Greene Balch,/wiki/Emily_Greene_Balch
+1946,peace,John Mott,/wiki/John_Mott
+1947,physics,Edward Victor Appleton,/wiki/Edward_Victor_Appleton
+1947,chemistry,Robert Robinson,/wiki/Robert_Robinson_(organic_chemist)
+1947,medicine,Carl Ferdinand Cori,/wiki/Carl_Ferdinand_Cori
+1947,medicine,Gerty Cori,/wiki/Gerty_Cori
+1947,medicine,Bernardo Houssay,/wiki/Bernardo_Houssay
+1947,literature,André Gide,/wiki/Andr%C3%A9_Gide
+1947,peace,Friends Service Council,/wiki/Quaker_Peace_and_Social_Witness
+1947,peace,American Friends Service Committee,/wiki/American_Friends_Service_Committee
+1948,physics,Patrick Blackett,"/wiki/Patrick_Blackett,_Baron_Blackett"
+1948,chemistry,Arne Tiselius,/wiki/Arne_Tiselius
+1948,medicine,Paul Hermann Müller,/wiki/Paul_Hermann_M%C3%BCller
+1948,literature,T. S. Eliot,/wiki/T._S._Eliot
+1948,peace,[b],#cite_note-B-16
+1949,physics,Hideki Yukawa,/wiki/Hideki_Yukawa
+1949,chemistry,William Giauque,/wiki/William_Giauque
+1949,medicine,Walter Rudolf Hess,/wiki/Walter_Rudolf_Hess
+1949,medicine,António Egas Moniz,/wiki/Ant%C3%B3nio_Egas_Moniz
+1949,literature,William Faulkner,/wiki/William_Faulkner
+1949,peace,John Boyd Orr,"/wiki/John_Boyd_Orr,_1st_Baron_Boyd-Orr"
+1950,physics,C. F. Powell,/wiki/C._F._Powell
+1950,chemistry,Otto Diels,/wiki/Otto_Diels
+1950,chemistry,Kurt Alder,/wiki/Kurt_Alder
+1950,medicine,Philip Showalter Hench,/wiki/Philip_Showalter_Hench
+1950,medicine,Edward Calvin Kendall,/wiki/Edward_Calvin_Kendall
+1950,medicine,Tadeus Reichstein,/wiki/Tadeus_Reichstein
+1950,literature,Bertrand Russell,/wiki/Bertrand_Russell
+1950,peace,Ralph Bunche,/wiki/Ralph_Bunche
+1951,physics,John Cockcroft,/wiki/John_Cockcroft
+1951,physics,Ernest Walton,/wiki/Ernest_Walton
+1951,chemistry,Edwin McMillan,/wiki/Edwin_McMillan
+1951,chemistry,Glenn T. Seaborg,/wiki/Glenn_T._Seaborg
+1951,medicine,Max Theiler,/wiki/Max_Theiler
+1951,literature,Pär Lagerkvist,/wiki/P%C3%A4r_Lagerkvist
+1951,peace,Léon Jouhaux,/wiki/L%C3%A9on_Jouhaux
+1952,physics,Felix Bloch,/wiki/Felix_Bloch
+1952,physics,Edward Mills Purcell,/wiki/Edward_Mills_Purcell
+1952,chemistry,Archer John Porter Martin,/wiki/Archer_John_Porter_Martin
+1952,chemistry,Richard Laurence Millington Synge,/wiki/Richard_Laurence_Millington_Synge
+1952,medicine,Selman Waksman,/wiki/Selman_Waksman
+1952,literature,François Mauriac,/wiki/Fran%C3%A7ois_Mauriac
+1952,peace,Albert Schweitzer,/wiki/Albert_Schweitzer
+1953,physics,Frits Zernike,/wiki/Frits_Zernike
+1953,chemistry,Hermann Staudinger,/wiki/Hermann_Staudinger
+1953,medicine,Hans Adolf Krebs,/wiki/Hans_Adolf_Krebs
+1953,medicine,Fritz Albert Lipmann,/wiki/Fritz_Albert_Lipmann
+1953,literature,Winston Churchill,/wiki/Winston_Churchill
+1953,peace,George Marshall,/wiki/George_Marshall
+1954,physics,Max Born,/wiki/Max_Born
+1954,physics,Walther Bothe,/wiki/Walther_Bothe
+1954,chemistry,Linus Pauling,/wiki/Linus_Pauling
+1954,medicine,John Franklin Enders,/wiki/John_Franklin_Enders
+1954,medicine,Frederick Chapman Robbins,/wiki/Frederick_Chapman_Robbins
+1954,medicine,Thomas Huckle Weller,/wiki/Thomas_Huckle_Weller
+1954,literature,Ernest Hemingway,/wiki/Ernest_Hemingway
+1954,peace,United Nations High Commissioner for Refugees,/wiki/United_Nations_High_Commissioner_for_Refugees
+1955,physics,Willis Lamb,/wiki/Willis_Lamb
+1955,physics,Polykarp Kusch,/wiki/Polykarp_Kusch
+1955,chemistry,Vincent du Vigneaud,/wiki/Vincent_du_Vigneaud
+1955,medicine,Hugo Theorell,/wiki/Hugo_Theorell
+1955,literature,Halldór Laxness,/wiki/Halld%C3%B3r_Laxness
+1956,physics,John Bardeen,/wiki/John_Bardeen
+1956,physics,Walter Houser Brattain,/wiki/Walter_Houser_Brattain
+1956,physics,William Shockley,/wiki/William_Shockley
+1956,chemistry,Cyril Norman Hinshelwood,/wiki/Cyril_Norman_Hinshelwood
+1956,chemistry,Nikolay Semyonov,/wiki/Nikolay_Semyonov
+1956,medicine,André Frédéric Cournand,/wiki/Andr%C3%A9_Fr%C3%A9d%C3%A9ric_Cournand
+1956,medicine,Werner Forssmann,/wiki/Werner_Forssmann
+1956,medicine,Dickinson W. Richards,/wiki/Dickinson_W._Richards
+1956,literature,Juan Ramón Jiménez,/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez
+1957,physics,Chen Ning Yang,/wiki/Chen_Ning_Yang
+1957,physics,Tsung-Dao Lee,/wiki/Tsung-Dao_Lee
+1957,chemistry,The Lord Todd,"/wiki/Alexander_R._Todd,_Baron_Todd"
+1957,medicine,Daniel Bovet,/wiki/Daniel_Bovet
+1957,literature,Albert Camus,/wiki/Albert_Camus
+1957,peace,Lester B. Pearson,/wiki/Lester_B._Pearson
+1958,physics,Pavel Cherenkov,/wiki/Pavel_Cherenkov
+1958,physics,Ilya Frank,/wiki/Ilya_Frank
+1958,physics,Igor Tamm,/wiki/Igor_Tamm
+1958,chemistry,Frederick Sanger,/wiki/Frederick_Sanger
+1958,medicine,George Wells Beadle,/wiki/George_Wells_Beadle
+1958,medicine,Edward Lawrie Tatum,/wiki/Edward_Lawrie_Tatum
+1958,medicine,Joshua Lederberg,/wiki/Joshua_Lederberg
+1958,literature,Boris Pasternak,/wiki/Boris_Pasternak
+1958,literature,[c],#cite_note-C-17
+1958,peace,Dominique Pire,/wiki/Dominique_Pire
+1959,physics,Emilio G. Segrè,/wiki/Emilio_G._Segr%C3%A8
+1959,physics,Owen Chamberlain,/wiki/Owen_Chamberlain
+1959,chemistry,Jaroslav Heyrovský,/wiki/Jaroslav_Heyrovsk%C3%BD
+1959,medicine,Arthur Kornberg,/wiki/Arthur_Kornberg
+1959,medicine,Severo Ochoa,/wiki/Severo_Ochoa
+1959,literature,Salvatore Quasimodo,/wiki/Salvatore_Quasimodo
+1959,peace,Philip Noel-Baker,"/wiki/Philip_Noel-Baker,_Baron_Noel-Baker"
+1960,physics,Donald A. Glaser,/wiki/Donald_A._Glaser
+1960,chemistry,Willard Libby,/wiki/Willard_Libby
+1960,medicine,Frank Macfarlane Burnet,/wiki/Frank_Macfarlane_Burnet
+1960,medicine,Peter Medawar,/wiki/Peter_Medawar
+1960,literature,Saint-John Perse,/wiki/Saint-John_Perse
+1960,peace,Albert Lutuli,/wiki/Albert_Lutuli
+1961,physics,Robert Hofstadter,/wiki/Robert_Hofstadter
+1961,physics,Rudolf Mössbauer,/wiki/Rudolf_M%C3%B6ssbauer
+1961,chemistry,Melvin Calvin,/wiki/Melvin_Calvin
+1961,medicine,Georg von Békésy,/wiki/Georg_von_B%C3%A9k%C3%A9sy
+1961,literature,Ivo Andrić,/wiki/Ivo_Andri%C4%87
+1961,peace,Dag Hammarskjöld,/wiki/Dag_Hammarskj%C3%B6ld
+1962,physics,Lev Landau,/wiki/Lev_Landau
+1962,chemistry,Max Perutz,/wiki/Max_Perutz
+1962,chemistry,John Kendrew,/wiki/John_Kendrew
+1962,medicine,Francis Crick,/wiki/Francis_Crick
+1962,medicine,James D. Watson,/wiki/James_D._Watson
+1962,medicine,Maurice Wilkins,/wiki/Maurice_Wilkins
+1962,literature,John Steinbeck,/wiki/John_Steinbeck
+1962,peace,Linus Pauling,/wiki/Linus_Pauling
+1963,physics,Eugene Wigner,/wiki/Eugene_Wigner
+1963,physics,Maria Goeppert-Mayer,/wiki/Maria_Goeppert-Mayer
+1963,physics,J. Hans D. Jensen,/wiki/J._Hans_D._Jensen
+1963,chemistry,Karl Ziegler,/wiki/Karl_Ziegler
+1963,chemistry,Giulio Natta,/wiki/Giulio_Natta
+1963,medicine,John Eccles,/wiki/John_Eccles_(neurophysiologist)
+1963,medicine,Alan Lloyd Hodgkin,/wiki/Alan_Lloyd_Hodgkin
+1963,medicine,Andrew Huxley,/wiki/Andrew_Huxley
+1963,literature,Giorgos Seferis,/wiki/Giorgos_Seferis
+1963,peace,International Committee of the Red Cross,/wiki/International_Committee_of_the_Red_Cross
+1963,peace,League of Red Cross societies,/wiki/International_Federation_of_Red_Cross_and_Red_Crescent_Societies
+1964,physics,Charles Hard Townes,/wiki/Charles_Hard_Townes
+1964,physics,Nikolay Basov,/wiki/Nikolay_Basov
+1964,physics,Alexander Prokhorov,/wiki/Alexander_Prokhorov
+1964,chemistry,Dorothy Hodgkin,/wiki/Dorothy_Hodgkin
+1964,medicine,Konrad Emil Bloch,/wiki/Konrad_Emil_Bloch
+1964,medicine,Feodor Felix Konrad Lynen,/wiki/Feodor_Felix_Konrad_Lynen
+1964,literature,Jean-Paul Sartre,/wiki/Jean-Paul_Sartre
+1964,literature,[d],#cite_note-D-18
+1964,peace,"Martin Luther King, Jr.","/wiki/Martin_Luther_King,_Jr."
+1965,physics,Sin-Itiro Tomonaga,/wiki/Sin-Itiro_Tomonaga
+1965,physics,Julian Schwinger,/wiki/Julian_Schwinger
+1965,physics,Richard Feynman,/wiki/Richard_Feynman
+1965,chemistry,Robert Burns Woodward,/wiki/Robert_Burns_Woodward
+1965,medicine,François Jacob,/wiki/Fran%C3%A7ois_Jacob
+1965,medicine,André Michel Lwoff,/wiki/Andr%C3%A9_Michel_Lwoff
+1965,medicine,Jacques Monod,/wiki/Jacques_Monod
+1965,literature,Mikhail Sholokhov,/wiki/Mikhail_Sholokhov
+1965,peace,United Nations International Children's Emergency Fund (UNICEF),/wiki/UNICEF
+1966,physics,Alfred Kastler,/wiki/Alfred_Kastler
+1966,chemistry,Robert S. Mulliken,/wiki/Robert_S._Mulliken
+1966,medicine,Francis Peyton Rous,/wiki/Francis_Peyton_Rous
+1966,medicine,Charles Brenton Huggins,/wiki/Charles_Brenton_Huggins
+1966,literature,Shmuel Yosef Agnon,/wiki/Shmuel_Yosef_Agnon
+1966,literature,Nelly Sachs,/wiki/Nelly_Sachs
+1967,physics,Hans Bethe,/wiki/Hans_Bethe
+1967,chemistry,Manfred Eigen,/wiki/Manfred_Eigen
+1967,chemistry,Ronald George Wreyford Norrish,/wiki/Ronald_George_Wreyford_Norrish
+1967,chemistry,George Porter,/wiki/George_Porter
+1967,medicine,Ragnar Granit,/wiki/Ragnar_Granit
+1967,medicine,Haldan Keffer Hartline,/wiki/Haldan_Keffer_Hartline
+1967,medicine,George Wald,/wiki/George_Wald
+1967,literature,Miguel Ángel Asturias,/wiki/Miguel_%C3%81ngel_Asturias
+1968,physics,Luis Walter Alvarez,/wiki/Luis_Walter_Alvarez
+1968,chemistry,Lars Onsager,/wiki/Lars_Onsager
+1968,medicine,Robert W. Holley,/wiki/Robert_W._Holley
+1968,medicine,Har Gobind Khorana,/wiki/Har_Gobind_Khorana
+1968,medicine,Marshall Warren Nirenberg,/wiki/Marshall_Warren_Nirenberg
+1968,literature,Yasunari Kawabata,/wiki/Yasunari_Kawabata
+1968,peace,René Cassin,/wiki/Ren%C3%A9_Cassin
+1969,physics,Murray Gell-Mann,/wiki/Murray_Gell-Mann
+1969,chemistry,Derek Barton,/wiki/Derek_Barton
+1969,chemistry,Odd Hassel,/wiki/Odd_Hassel
+1969,medicine,Max Delbrück,/wiki/Max_Delbr%C3%BCck
+1969,medicine,Alfred Hershey,/wiki/Alfred_Hershey
+1969,medicine,Salvador Luria,/wiki/Salvador_Luria
+1969,literature,Samuel Beckett,/wiki/Samuel_Beckett
+1969,peace,International Labour Organization,/wiki/International_Labour_Organization
+1969,economics,Ragnar Frisch,/wiki/Ragnar_Frisch
+1969,economics,Jan Tinbergen,/wiki/Jan_Tinbergen
+1970,physics,Hannes Alfvén,/wiki/Hannes_Alfv%C3%A9n
+1970,physics,Louis Néel,/wiki/Louis_N%C3%A9el
+1970,chemistry,Luis Federico Leloir,/wiki/Luis_Federico_Leloir
+1970,medicine,Julius Axelrod,/wiki/Julius_Axelrod
+1970,medicine,Ulf von Euler,/wiki/Ulf_von_Euler
+1970,medicine,Bernard Katz,/wiki/Bernard_Katz
+1970,literature,Aleksandr Solzhenitsyn,/wiki/Aleksandr_Solzhenitsyn
+1970,peace,Norman Borlaug,/wiki/Norman_Borlaug
+1970,economics,Paul Samuelson,/wiki/Paul_Samuelson
+1971,physics,Dennis Gabor,/wiki/Dennis_Gabor
+1971,chemistry,Gerhard Herzberg,/wiki/Gerhard_Herzberg
+1971,medicine,"Earl Wilbur Sutherland, Jr.","/wiki/Earl_Wilbur_Sutherland,_Jr."
+1971,literature,Pablo Neruda,/wiki/Pablo_Neruda
+1971,peace,Willy Brandt,/wiki/Willy_Brandt
+1971,economics,Simon Kuznets,/wiki/Simon_Kuznets
+1972,physics,John Bardeen,/wiki/John_Bardeen
+1972,physics,Leon Cooper,/wiki/Leon_Cooper
+1972,physics,John Robert Schrieffer,/wiki/John_Robert_Schrieffer
+1972,chemistry,Christian B. Anfinsen,/wiki/Christian_B._Anfinsen
+1972,chemistry,Stanford Moore,/wiki/Stanford_Moore
+1972,chemistry,William Howard Stein,/wiki/William_Howard_Stein
+1972,medicine,Gerald Edelman,/wiki/Gerald_Edelman
+1972,medicine,Rodney Robert Porter,/wiki/Rodney_Robert_Porter
+1972,literature,Heinrich Böll,/wiki/Heinrich_B%C3%B6ll
+1972,economics,John Hicks,/wiki/John_Hicks
+1972,economics,Kenneth Arrow,/wiki/Kenneth_Arrow
+1973,physics,Leo Esaki,/wiki/Leo_Esaki
+1973,physics,Ivar Giaever,/wiki/Ivar_Giaever
+1973,physics,Brian David Josephson,/wiki/Brian_David_Josephson
+1973,chemistry,Ernst Otto Fischer,/wiki/Ernst_Otto_Fischer
+1973,chemistry,Geoffrey Wilkinson,/wiki/Geoffrey_Wilkinson
+1973,medicine,Karl von Frisch,/wiki/Karl_von_Frisch
+1973,medicine,Konrad Lorenz,/wiki/Konrad_Lorenz
+1973,medicine,Nikolaas Tinbergen,/wiki/Nikolaas_Tinbergen
+1973,literature,Patrick White,/wiki/Patrick_White
+1973,peace,Henry Kissinger,/wiki/Henry_Kissinger
+1973,peace,Le Duc Tho,/wiki/Le_Duc_Tho
+1973,peace,[e],#cite_note-E-19
+1973,economics,Wassily Leontief,/wiki/Wassily_Leontief
+1974,physics,Martin Ryle,/wiki/Martin_Ryle
+1974,physics,Antony Hewish,/wiki/Antony_Hewish
+1974,chemistry,Paul Flory,/wiki/Paul_Flory
+1974,medicine,Albert Claude,/wiki/Albert_Claude
+1974,medicine,Christian de Duve,/wiki/Christian_de_Duve
+1974,medicine,George Emil Palade,/wiki/George_Emil_Palade
+1974,literature,Eyvind Johnson,/wiki/Eyvind_Johnson
+1974,literature,Harry Martinson,/wiki/Harry_Martinson
+1974,peace,Seán MacBride,/wiki/Se%C3%A1n_MacBride
+1974,peace,Eisaku Satō,/wiki/Eisaku_Sat%C5%8D
+1974,economics,Gunnar Myrdal,/wiki/Gunnar_Myrdal
+1974,economics,Friedrich Hayek,/wiki/Friedrich_Hayek
+1975,physics,Aage Bohr,/wiki/Aage_Bohr
+1975,physics,Ben Roy Mottelson,/wiki/Ben_Roy_Mottelson
+1975,physics,James Rainwater,/wiki/James_Rainwater
+1975,chemistry,John Cornforth,/wiki/John_Cornforth
+1975,chemistry,Vladimir Prelog,/wiki/Vladimir_Prelog
+1975,medicine,David Baltimore,/wiki/David_Baltimore
+1975,medicine,Renato Dulbecco,/wiki/Renato_Dulbecco
+1975,medicine,Howard Martin Temin,/wiki/Howard_Martin_Temin
+1975,literature,Eugenio Montale,/wiki/Eugenio_Montale
+1975,peace,Andrei Sakharov,/wiki/Andrei_Sakharov
+1975,economics,Leonid Kantorovich,/wiki/Leonid_Kantorovich
+1975,economics,Tjalling Koopmans,/wiki/Tjalling_Koopmans
+1976,physics,Burton Richter,/wiki/Burton_Richter
+1976,physics,Samuel C. C. Ting,/wiki/Samuel_C._C._Ting
+1976,chemistry,William Lipscomb,/wiki/William_Lipscomb
+1976,medicine,Baruch Samuel Blumberg,/wiki/Baruch_Samuel_Blumberg
+1976,medicine,Daniel Carleton Gajdusek,/wiki/Daniel_Carleton_Gajdusek
+1976,literature,Saul Bellow,/wiki/Saul_Bellow
+1976,peace,Betty Williams,/wiki/Betty_Williams_(Nobel_laureate)
+1976,peace,Mairead Maguire,/wiki/Mairead_Maguire
+1976,economics,Milton Friedman,/wiki/Milton_Friedman
+1977,physics,Philip Warren Anderson,/wiki/Philip_Warren_Anderson
+1977,physics,Nevill Francis Mott,/wiki/Nevill_Francis_Mott
+1977,physics,John Hasbrouck Van Vleck,/wiki/John_Hasbrouck_Van_Vleck
+1977,chemistry,Ilya Prigogine,/wiki/Ilya_Prigogine
+1977,medicine,Roger Guillemin,/wiki/Roger_Guillemin
+1977,medicine,Andrew Schally,/wiki/Andrew_Schally
+1977,medicine,Rosalyn Sussman Yalow,/wiki/Rosalyn_Sussman_Yalow
+1977,literature,Vicente Aleixandre,/wiki/Vicente_Aleixandre
+1977,peace,Amnesty International,/wiki/Amnesty_International
+1977,economics,Bertil Ohlin,/wiki/Bertil_Ohlin
+1977,economics,James Meade,/wiki/James_Meade
+1978,physics,Pyotr Kapitsa,/wiki/Pyotr_Kapitsa
+1978,physics,Arno Allan Penzias,/wiki/Arno_Allan_Penzias
+1978,physics,Robert Woodrow Wilson,/wiki/Robert_Woodrow_Wilson
+1978,chemistry,Peter D. Mitchell,/wiki/Peter_D._Mitchell
+1978,medicine,Werner Arber,/wiki/Werner_Arber
+1978,medicine,Daniel Nathans,/wiki/Daniel_Nathans
+1978,medicine,Hamilton O. Smith,/wiki/Hamilton_O._Smith
+1978,literature,Isaac Bashevis Singer,/wiki/Isaac_Bashevis_Singer
+1978,peace,Anwar Sadat,/wiki/Anwar_Sadat
+1978,peace,Menachem Begin,/wiki/Menachem_Begin
+1978,economics,Herbert A. Simon,/wiki/Herbert_A._Simon
+1979,physics,Sheldon Lee Glashow,/wiki/Sheldon_Lee_Glashow
+1979,physics,Abdus Salam,/wiki/Abdus_Salam
+1979,physics,Steven Weinberg,/wiki/Steven_Weinberg
+1979,chemistry,Herbert C. Brown,/wiki/Herbert_C._Brown
+1979,chemistry,Georg Wittig,/wiki/Georg_Wittig
+1979,medicine,Allan McLeod Cormack,/wiki/Allan_McLeod_Cormack
+1979,medicine,Godfrey Hounsfield,/wiki/Godfrey_Hounsfield
+1979,literature,Odysseas Elytis,/wiki/Odysseas_Elytis
+1979,peace,Mother Teresa,/wiki/Mother_Teresa
+1979,economics,Theodore Schultz,/wiki/Theodore_Schultz
+1979,economics,Arthur Lewis,/wiki/Arthur_Lewis_(economist)
+1980,physics,James Cronin,/wiki/James_Cronin
+1980,physics,Val Logsdon Fitch,/wiki/Val_Logsdon_Fitch
+1980,chemistry,Paul Berg,/wiki/Paul_Berg
+1980,chemistry,Walter Gilbert,/wiki/Walter_Gilbert
+1980,chemistry,Frederick Sanger,/wiki/Frederick_Sanger
+1980,medicine,Baruj Benacerraf,/wiki/Baruj_Benacerraf
+1980,medicine,Jean Dausset,/wiki/Jean_Dausset
+1980,medicine,George Davis Snell,/wiki/George_Davis_Snell
+1980,literature,Czesław Miłosz,/wiki/Czes%C5%82aw_Mi%C5%82osz
+1980,peace,Adolfo Pérez Esquivel,/wiki/Adolfo_P%C3%A9rez_Esquivel
+1980,economics,Lawrence Klein,/wiki/Lawrence_Klein
+1981,physics,Nicolaas Bloembergen,/wiki/Nicolaas_Bloembergen
+1981,physics,Arthur Leonard Schawlow,/wiki/Arthur_Leonard_Schawlow
+1981,physics,Kai Siegbahn,/wiki/Kai_Siegbahn
+1981,chemistry,Kenichi Fukui,/wiki/Kenichi_Fukui
+1981,chemistry,Roald Hoffmann,/wiki/Roald_Hoffmann
+1981,medicine,Roger Wolcott Sperry,/wiki/Roger_Wolcott_Sperry
+1981,medicine,David H. Hubel,/wiki/David_H._Hubel
+1981,medicine,Torsten Wiesel,/wiki/Torsten_Wiesel
+1981,literature,Elias Canetti,/wiki/Elias_Canetti
+1981,peace,United Nations High Commissioner for Refugees,/wiki/United_Nations_High_Commissioner_for_Refugees
+1981,economics,James Tobin,/wiki/James_Tobin
+1982,physics,Kenneth G. Wilson,/wiki/Kenneth_G._Wilson
+1982,chemistry,Aaron Klug,/wiki/Aaron_Klug
+1982,medicine,Sune Bergström,/wiki/Sune_Bergstr%C3%B6m
+1982,medicine,Bengt I. Samuelsson,/wiki/Bengt_I._Samuelsson
+1982,medicine,John Vane,/wiki/John_Vane
+1982,literature,Gabriel García Márquez,/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez
+1982,peace,Alva Myrdal,/wiki/Alva_Myrdal
+1982,peace,Alfonso García Robles,/wiki/Alfonso_Garc%C3%ADa_Robles
+1982,economics,George Stigler,/wiki/George_Stigler
+1983,physics,Subrahmanyan Chandrasekhar,/wiki/Subrahmanyan_Chandrasekhar
+1983,physics,William Alfred Fowler,/wiki/William_Alfred_Fowler
+1983,chemistry,Henry Taube,/wiki/Henry_Taube
+1983,medicine,Barbara McClintock,/wiki/Barbara_McClintock
+1983,literature,William Golding,/wiki/William_Golding
+1983,peace,Lech Wałęsa,/wiki/Lech_Wa%C5%82%C4%99sa
+1983,economics,Gérard Debreu,/wiki/G%C3%A9rard_Debreu
+1984,physics,Carlo Rubbia,/wiki/Carlo_Rubbia
+1984,physics,Simon van der Meer,/wiki/Simon_van_der_Meer
+1984,chemistry,Robert Bruce Merrifield,/wiki/Robert_Bruce_Merrifield
+1984,medicine,Niels Kaj Jerne,/wiki/Niels_Kaj_Jerne
+1984,medicine,Georges J. F. Köhler,/wiki/Georges_J._F._K%C3%B6hler
+1984,medicine,César Milstein,/wiki/C%C3%A9sar_Milstein
+1984,literature,Jaroslav Seifert,/wiki/Jaroslav_Seifert
+1984,peace,Desmond Tutu,/wiki/Desmond_Tutu
+1984,economics,Richard Stone,/wiki/Richard_Stone
+1985,physics,Klaus von Klitzing,/wiki/Klaus_von_Klitzing
+1985,chemistry,Herbert A. Hauptman,/wiki/Herbert_A._Hauptman
+1985,chemistry,Jerome Karle,/wiki/Jerome_Karle
+1985,medicine,Michael Stuart Brown,/wiki/Michael_Stuart_Brown
+1985,medicine,Joseph L. Goldstein,/wiki/Joseph_L._Goldstein
+1985,literature,Claude Simon,/wiki/Claude_Simon
+1985,peace,International Physicians for the Prevention of Nuclear War,/wiki/International_Physicians_for_the_Prevention_of_Nuclear_War
+1985,economics,Franco Modigliani,/wiki/Franco_Modigliani
+1986,physics,Ernst Ruska,/wiki/Ernst_Ruska
+1986,physics,Gerd Binnig,/wiki/Gerd_Binnig
+1986,physics,Heinrich Rohrer,/wiki/Heinrich_Rohrer
+1986,chemistry,Dudley R. Herschbach,/wiki/Dudley_R._Herschbach
+1986,chemistry,Yuan T. Lee,/wiki/Yuan_T._Lee
+1986,chemistry,John Polanyi,/wiki/John_Polanyi
+1986,medicine,Stanley Cohen,/wiki/Stanley_Cohen_(biochemist)
+1986,medicine,Rita Levi-Montalcini,/wiki/Rita_Levi-Montalcini
+1986,literature,Wole Soyinka,/wiki/Wole_Soyinka
+1986,peace,Elie Wiesel,/wiki/Elie_Wiesel
+1986,economics,James M. Buchanan,/wiki/James_M._Buchanan
+1987,physics,Johannes Georg Bednorz,/wiki/Johannes_Georg_Bednorz
+1987,physics,Karl Alexander Müller,/wiki/Karl_Alexander_M%C3%BCller
+1987,chemistry,Donald J. Cram,/wiki/Donald_J._Cram
+1987,chemistry,Jean-Marie Lehn,/wiki/Jean-Marie_Lehn
+1987,chemistry,Charles J. Pedersen,/wiki/Charles_J._Pedersen
+1987,medicine,Susumu Tonegawa,/wiki/Susumu_Tonegawa
+1987,literature,Joseph Brodsky,/wiki/Joseph_Brodsky
+1987,peace,Óscar Arias,/wiki/%C3%93scar_Arias
+1987,economics,Robert Solow,/wiki/Robert_Solow
+1988,physics,Leon M. Lederman,/wiki/Leon_M._Lederman
+1988,physics,Melvin Schwartz,/wiki/Melvin_Schwartz
+1988,physics,Jack Steinberger,/wiki/Jack_Steinberger
+1988,chemistry,Johann Deisenhofer,/wiki/Johann_Deisenhofer
+1988,chemistry,Robert Huber,/wiki/Robert_Huber
+1988,chemistry,Hartmut Michel,/wiki/Hartmut_Michel
+1988,medicine,James W. Black,/wiki/James_W._Black
+1988,medicine,Gertrude B. Elion,/wiki/Gertrude_B._Elion
+1988,medicine,George H. Hitchings,/wiki/George_H._Hitchings
+1988,literature,Naguib Mahfouz,/wiki/Naguib_Mahfouz
+1988,peace,United Nations Peace-Keeping Forces,/wiki/United_Nations_peacekeeping
+1988,economics,Maurice Allais,/wiki/Maurice_Allais
+1989,physics,"Norman Foster Ramsey, Jr.","/wiki/Norman_Foster_Ramsey,_Jr."
+1989,physics,Hans Georg Dehmelt,/wiki/Hans_Georg_Dehmelt
+1989,physics,Wolfgang Paul,/wiki/Wolfgang_Paul
+1989,chemistry,Sidney Altman,/wiki/Sidney_Altman
+1989,chemistry,Thomas Cech,/wiki/Thomas_Cech
+1989,medicine,J. Michael Bishop,/wiki/J._Michael_Bishop
+1989,medicine,Harold E. Varmus,/wiki/Harold_E._Varmus
+1989,literature,Camilo José Cela,/wiki/Camilo_Jos%C3%A9_Cela
+1989,peace,Tenzin Gyatso (The 14th Dalai Lama),/wiki/14th_Dalai_Lama
+1989,economics,Trygve Haavelmo,/wiki/Trygve_Haavelmo
+1990,physics,Jerome Isaac Friedman,/wiki/Jerome_Isaac_Friedman
+1990,physics,Henry Way Kendall,/wiki/Henry_Way_Kendall
+1990,physics,Richard E. Taylor,/wiki/Richard_E._Taylor
+1990,chemistry,Elias James Corey,/wiki/Elias_James_Corey
+1990,medicine,Joseph Murray,/wiki/Joseph_Murray
+1990,medicine,E. Donnall Thomas,/wiki/E._Donnall_Thomas
+1990,literature,Octavio Paz,/wiki/Octavio_Paz
+1990,peace,Mikhail Gorbachev,/wiki/Mikhail_Gorbachev
+1990,economics,Harry Markowitz,/wiki/Harry_Markowitz
+1990,economics,Merton Miller,/wiki/Merton_Miller
+1990,economics,William F. Sharpe,/wiki/William_F._Sharpe
+1991,physics,Pierre-Gilles de Gennes,/wiki/Pierre-Gilles_de_Gennes
+1991,chemistry,Richard R. Ernst,/wiki/Richard_R._Ernst
+1991,medicine,Erwin Neher,/wiki/Erwin_Neher
+1991,medicine,Bert Sakmann,/wiki/Bert_Sakmann
+1991,literature,Nadine Gordimer,/wiki/Nadine_Gordimer
+1991,peace,Aung San Suu Kyi,/wiki/Aung_San_Suu_Kyi
+1991,economics,Ronald Coase,/wiki/Ronald_Coase
+1992,physics,Georges Charpak,/wiki/Georges_Charpak
+1992,chemistry,Rudolph A. Marcus,/wiki/Rudolph_A._Marcus
+1992,medicine,Edmond H. Fischer,/wiki/Edmond_H._Fischer
+1992,medicine,Edwin G. Krebs,/wiki/Edwin_G._Krebs
+1992,literature,Derek Walcott,/wiki/Derek_Walcott
+1992,peace,Rigoberta Menchú,/wiki/Rigoberta_Mench%C3%BA
+1992,economics,Gary Becker,/wiki/Gary_Becker
+1993,physics,Russell Alan Hulse,/wiki/Russell_Alan_Hulse
+1993,physics,"Joseph Hooton Taylor, Jr.","/wiki/Joseph_Hooton_Taylor,_Jr."
+1993,chemistry,Kary Mullis,/wiki/Kary_Mullis
+1993,chemistry,Michael Smith,/wiki/Michael_Smith_(chemist)
+1993,medicine,Richard J. Roberts,/wiki/Richard_J._Roberts
+1993,medicine,Phillip Allen Sharp,/wiki/Phillip_Allen_Sharp
+1993,literature,Toni Morrison,/wiki/Toni_Morrison
+1993,peace,Nelson Mandela,/wiki/Nelson_Mandela
+1993,peace,F. W. de Klerk,/wiki/F._W._de_Klerk
+1993,economics,Robert Fogel,/wiki/Robert_Fogel
+1993,economics,Douglass North,/wiki/Douglass_North
+1994,physics,Bertram Brockhouse,/wiki/Bertram_Brockhouse
+1994,physics,Clifford Shull,/wiki/Clifford_Shull
+1994,chemistry,George Andrew Olah,/wiki/George_Andrew_Olah
+1994,medicine,Alfred G. Gilman,/wiki/Alfred_G._Gilman
+1994,medicine,Martin Rodbell,/wiki/Martin_Rodbell
+1994,literature,Kenzaburō Ōe,/wiki/Kenzabur%C5%8D_%C5%8Ce
+1994,peace,Yasser Arafat,/wiki/Yasser_Arafat
+1994,peace,Shimon Peres,/wiki/Shimon_Peres
+1994,peace,Yitzhak Rabin,/wiki/Yitzhak_Rabin
+1994,economics,John Harsanyi,/wiki/John_Harsanyi
+1994,economics,"John Forbes Nash, Jr.","/wiki/John_Forbes_Nash,_Jr."
+1994,economics,Reinhard Selten,/wiki/Reinhard_Selten
+1995,physics,Martin Lewis Perl,/wiki/Martin_Lewis_Perl
+1995,physics,Frederick Reines,/wiki/Frederick_Reines
+1995,chemistry,Paul J. Crutzen,/wiki/Paul_J._Crutzen
+1995,chemistry,Mario J. Molina,/wiki/Mario_J._Molina
+1995,chemistry,Frank Sherwood Rowland,/wiki/Frank_Sherwood_Rowland
+1995,medicine,Edward B. Lewis,/wiki/Edward_B._Lewis
+1995,medicine,Christiane Nüsslein-Volhard,/wiki/Christiane_N%C3%BCsslein-Volhard
+1995,medicine,Eric F. Wieschaus,/wiki/Eric_F._Wieschaus
+1995,literature,Seamus Heaney,/wiki/Seamus_Heaney
+1995,peace,Joseph Rotblat,/wiki/Joseph_Rotblat
+1995,peace,Pugwash Conferences on Science and World Affairs,/wiki/Pugwash_Conferences_on_Science_and_World_Affairs
+1995,economics,"Robert Lucas, Jr.","/wiki/Robert_Lucas,_Jr."
+1996,physics,David Lee,/wiki/David_Lee_(physicist)
+1996,physics,Douglas Osheroff,/wiki/Douglas_Osheroff
+1996,physics,Robert Coleman Richardson,/wiki/Robert_Coleman_Richardson
+1996,chemistry,Robert F. Curl Jr.,/wiki/Robert_Curl
+1996,chemistry,Harry Kroto,/wiki/Harry_Kroto
+1996,chemistry,Richard Smalley,/wiki/Richard_Smalley
+1996,medicine,Peter C. Doherty,/wiki/Peter_C._Doherty
+1996,medicine,Rolf M. Zinkernagel,/wiki/Rolf_M._Zinkernagel
+1996,literature,Wisława Szymborska,/wiki/Wis%C5%82awa_Szymborska
+1996,peace,Carlos Filipe Ximenes Belo,/wiki/Carlos_Filipe_Ximenes_Belo
+1996,peace,José Ramos-Horta,/wiki/Jos%C3%A9_Ramos-Horta
+1996,economics,James Mirrlees,/wiki/James_Mirrlees
+1996,economics,William Vickrey,/wiki/William_Vickrey
+1997,physics,Steven Chu,/wiki/Steven_Chu
+1997,physics,Claude Cohen-Tannoudji,/wiki/Claude_Cohen-Tannoudji
+1997,physics,William Daniel Phillips,/wiki/William_Daniel_Phillips
+1997,chemistry,Paul D. Boyer,/wiki/Paul_D._Boyer
+1997,chemistry,John E. Walker,/wiki/John_E._Walker
+1997,chemistry,Jens Christian Skou,/wiki/Jens_Christian_Skou
+1997,medicine,Stanley B. Prusiner,/wiki/Stanley_B._Prusiner
+1997,literature,Dario Fo,/wiki/Dario_Fo
+1997,peace,International Campaign to Ban Landmines,/wiki/International_Campaign_to_Ban_Landmines
+1997,peace,Jody Williams,/wiki/Jody_Williams
+1997,economics,Robert C. Merton,/wiki/Robert_C._Merton
+1997,economics,Myron Scholes,/wiki/Myron_Scholes
+1998,physics,Robert B. Laughlin,/wiki/Robert_B._Laughlin
+1998,physics,Horst Ludwig Störmer,/wiki/Horst_Ludwig_St%C3%B6rmer
+1998,physics,Daniel C. Tsui,/wiki/Daniel_C._Tsui
+1998,chemistry,Walter Kohn,/wiki/Walter_Kohn
+1998,chemistry,John Pople,/wiki/John_Pople
+1998,medicine,Robert F. Furchgott,/wiki/Robert_F._Furchgott
+1998,medicine,Louis Ignarro,/wiki/Louis_Ignarro
+1998,medicine,Ferid Murad,/wiki/Ferid_Murad
+1998,literature,José Saramago,/wiki/Jos%C3%A9_Saramago
+1998,peace,John Hume,/wiki/John_Hume
+1998,peace,David Trimble,/wiki/David_Trimble
+1998,economics,Amartya Sen,/wiki/Amartya_Sen
+1999,physics,Gerard 't Hooft,/wiki/Gerard_%27t_Hooft
+1999,physics,Martinus J. G. Veltman,/wiki/Martinus_J._G._Veltman
+1999,chemistry,Ahmed Zewail,/wiki/Ahmed_Zewail
+1999,medicine,Günter Blobel,/wiki/G%C3%BCnter_Blobel
+1999,literature,Günter Grass,/wiki/G%C3%BCnter_Grass
+1999,peace,Médecins Sans Frontières,/wiki/M%C3%A9decins_Sans_Fronti%C3%A8res
+1999,economics,Robert Mundell,/wiki/Robert_Mundell
+2000,physics,Zhores Alferov,/wiki/Zhores_Alferov
+2000,physics,Herbert Kroemer,/wiki/Herbert_Kroemer
+2000,physics,Jack Kilby,/wiki/Jack_Kilby
+2000,chemistry,Alan J. Heeger,/wiki/Alan_J._Heeger
+2000,chemistry,Alan MacDiarmid,/wiki/Alan_MacDiarmid
+2000,chemistry,Hideki Shirakawa,/wiki/Hideki_Shirakawa
+2000,medicine,Arvid Carlsson,/wiki/Arvid_Carlsson
+2000,medicine,Paul Greengard,/wiki/Paul_Greengard
+2000,medicine,Eric Kandel,/wiki/Eric_Kandel
+2000,literature,Gao Xingjian,/wiki/Gao_Xingjian
+2000,peace,Kim Dae-jung,/wiki/Kim_Dae-jung
+2000,economics,James Heckman,/wiki/James_Heckman
+2000,economics,Daniel McFadden,/wiki/Daniel_McFadden
+2001,physics,Eric Allin Cornell,/wiki/Eric_Allin_Cornell
+2001,physics,Wolfgang Ketterle,/wiki/Wolfgang_Ketterle
+2001,physics,Carl Wieman,/wiki/Carl_Wieman
+2001,chemistry,William Standish Knowles,/wiki/William_Standish_Knowles
+2001,chemistry,Ryōji Noyori,/wiki/Ry%C5%8Dji_Noyori
+2001,chemistry,Karl Barry Sharpless,/wiki/Karl_Barry_Sharpless
+2001,medicine,Leland H. Hartwell,/wiki/Leland_H._Hartwell
+2001,medicine,Tim Hunt,/wiki/Tim_Hunt
+2001,medicine,Paul Nurse,/wiki/Paul_Nurse
+2001,literature,V. S. Naipaul,/wiki/V._S._Naipaul
+2001,peace,United Nations,/wiki/United_Nations
+2001,peace,Kofi Annan,/wiki/Kofi_Annan
+2001,economics,George Akerlof,/wiki/George_Akerlof
+2001,economics,Michael Spence,/wiki/Michael_Spence
+2001,economics,Joseph Stiglitz,/wiki/Joseph_Stiglitz
+2002,physics,"Raymond Davis, Jr.","/wiki/Raymond_Davis,_Jr."
+2002,physics,Masatoshi Koshiba,/wiki/Masatoshi_Koshiba
+2002,physics,Riccardo Giacconi,/wiki/Riccardo_Giacconi
+2002,chemistry,John Fenn,/wiki/John_Fenn_(chemist)
+2002,chemistry,Koichi Tanaka,/wiki/Koichi_Tanaka
+2002,chemistry,Kurt Wüthrich,/wiki/Kurt_W%C3%BCthrich
+2002,medicine,Sydney Brenner,/wiki/Sydney_Brenner
+2002,medicine,H. Robert Horvitz,/wiki/H._Robert_Horvitz
+2002,medicine,John Sulston,/wiki/John_Sulston
+2002,literature,Imre Kertész,/wiki/Imre_Kert%C3%A9sz
+2002,peace,Jimmy Carter,/wiki/Jimmy_Carter
+2002,economics,Daniel Kahneman,/wiki/Daniel_Kahneman
+2002,economics,Vernon L. Smith,/wiki/Vernon_L._Smith
+2003,physics,Alexei Alexeyevich Abrikosov,/wiki/Alexei_Alexeyevich_Abrikosov
+2003,physics,Vitaly Ginzburg,/wiki/Vitaly_Ginzburg
+2003,physics,Anthony James Leggett,/wiki/Anthony_James_Leggett
+2003,chemistry,Peter Agre,/wiki/Peter_Agre
+2003,chemistry,Roderick MacKinnon,/wiki/Roderick_MacKinnon
+2003,medicine,Paul Lauterbur,/wiki/Paul_Lauterbur
+2003,medicine,Peter Mansfield,/wiki/Peter_Mansfield
+2003,literature,J. M. Coetzee,/wiki/J._M._Coetzee
+2003,peace,Shirin Ebadi,/wiki/Shirin_Ebadi
+2003,economics,Robert F. Engle,/wiki/Robert_F._Engle
+2003,economics,Clive Granger,/wiki/Clive_Granger
+2004,physics,David Gross,/wiki/David_Gross
+2004,physics,Hugh David Politzer,/wiki/Hugh_David_Politzer
+2004,physics,Frank Wilczek,/wiki/Frank_Wilczek
+2004,chemistry,Aaron Ciechanover,/wiki/Aaron_Ciechanover
+2004,chemistry,Avram Hershko,/wiki/Avram_Hershko
+2004,chemistry,Irwin Rose,/wiki/Irwin_Rose
+2004,medicine,Richard Axel,/wiki/Richard_Axel
+2004,medicine,Linda B. Buck,/wiki/Linda_B._Buck
+2004,literature,Elfriede Jelinek,/wiki/Elfriede_Jelinek
+2004,peace,Wangari Maathai,/wiki/Wangari_Maathai
+2004,economics,Finn E. Kydland,/wiki/Finn_E._Kydland
+2004,economics,Edward C. Prescott,/wiki/Edward_C._Prescott
+2005,physics,Roy J. Glauber,/wiki/Roy_J._Glauber
+2005,physics,John L. Hall,/wiki/John_L._Hall
+2005,physics,Theodor W. Hänsch,/wiki/Theodor_W._H%C3%A4nsch
+2005,chemistry,Yves Chauvin,/wiki/Yves_Chauvin
+2005,chemistry,Robert H. Grubbs,/wiki/Robert_H._Grubbs
+2005,chemistry,Richard R. Schrock,/wiki/Richard_R._Schrock
+2005,medicine,Barry Marshall,/wiki/Barry_Marshall
+2005,medicine,Robin Warren,/wiki/Robin_Warren
+2005,literature,Harold Pinter,/wiki/Harold_Pinter
+2005,peace,International Atomic Energy Agency,/wiki/International_Atomic_Energy_Agency
+2005,peace,Mohamed ElBaradei,/wiki/Mohamed_ElBaradei
+2005,economics,Robert Aumann,/wiki/Robert_Aumann
+2005,economics,Thomas Schelling,/wiki/Thomas_Schelling
+2006,physics,John C. Mather,/wiki/John_C._Mather
+2006,physics,George Smoot,/wiki/George_Smoot
+2006,chemistry,Roger D. Kornberg,/wiki/Roger_D._Kornberg
+2006,medicine,Andrew Fire,/wiki/Andrew_Fire
+2006,medicine,Craig Mello,/wiki/Craig_Mello
+2006,literature,Orhan Pamuk,/wiki/Orhan_Pamuk
+2006,peace,Muhammad Yunus,/wiki/Muhammad_Yunus
+2006,peace,Grameen Bank,/wiki/Grameen_Bank
+2006,economics,Edmund Phelps,/wiki/Edmund_Phelps
+2007,physics,Albert Fert,/wiki/Albert_Fert
+2007,physics,Peter Grünberg,/wiki/Peter_Gr%C3%BCnberg
+2007,chemistry,Gerhard Ertl,/wiki/Gerhard_Ertl
+2007,medicine,Mario Capecchi,/wiki/Mario_Capecchi
+2007,medicine,Martin Evans,/wiki/Martin_Evans
+2007,medicine,Oliver Smithies,/wiki/Oliver_Smithies
+2007,literature,Doris Lessing,/wiki/Doris_Lessing
+2007,peace,Intergovernmental Panel on Climate Change,/wiki/Intergovernmental_Panel_on_Climate_Change
+2007,peace,Al Gore,/wiki/Al_Gore
+2007,economics,Leonid Hurwicz,/wiki/Leonid_Hurwicz
+2007,economics,Eric Maskin,/wiki/Eric_Maskin
+2007,economics,Roger Myerson,/wiki/Roger_Myerson
+2008,physics,Yoichiro Nambu,/wiki/Yoichiro_Nambu
+2008,physics,Makoto Kobayashi,/wiki/Makoto_Kobayashi_(physicist)
+2008,physics,Toshihide Maskawa,/wiki/Toshihide_Maskawa
+2008,chemistry,Osamu Shimomura,/wiki/Osamu_Shimomura
+2008,chemistry,Martin Chalfie,/wiki/Martin_Chalfie
+2008,chemistry,Roger Y. Tsien,/wiki/Roger_Y._Tsien
+2008,medicine,Harald zur Hausen,/wiki/Harald_zur_Hausen
+2008,medicine,Françoise Barré-Sinoussi,/wiki/Fran%C3%A7oise_Barr%C3%A9-Sinoussi
+2008,medicine,Luc Montagnier,/wiki/Luc_Montagnier
+2008,literature,J. M. G. Le Clézio,/wiki/J._M._G._Le_Cl%C3%A9zio
+2008,peace,Martti Ahtisaari,/wiki/Martti_Ahtisaari
+2008,economics,Paul Krugman,/wiki/Paul_Krugman
+2009,physics,Charles K. Kao,/wiki/Charles_K._Kao
+2009,physics,Willard S. Boyle,/wiki/Willard_Boyle
+2009,physics,George E. Smith,/wiki/George_E._Smith
+2009,chemistry,Venkatraman Ramakrishnan,/wiki/Venkatraman_Ramakrishnan
+2009,chemistry,Thomas A. Steitz,/wiki/Thomas_A._Steitz
+2009,chemistry,Ada Yonath,/wiki/Ada_Yonath
+2009,medicine,Elizabeth Blackburn,/wiki/Elizabeth_Blackburn
+2009,medicine,Carol W. Greider,/wiki/Carol_W._Greider
+2009,medicine,Jack W. Szostak,/wiki/Jack_W._Szostak
+2009,literature,Herta Müller,/wiki/Herta_M%C3%BCller
+2009,peace,Barack  Obama,/wiki/Barack_Obama
+2009,economics,Elinor Ostrom,/wiki/Elinor_Ostrom
+2009,economics,Oliver E. Williamson,/wiki/Oliver_E._Williamson
+2010,physics,Andre Geim,/wiki/Andre_Geim
+2010,physics,Konstantin Novoselov,/wiki/Konstantin_Novoselov
+2010,chemistry,Richard F. Heck,/wiki/Richard_F._Heck
+2010,chemistry,Ei-ichi Negishi,/wiki/Ei-ichi_Negishi
+2010,chemistry,Akira Suzuki,/wiki/Akira_Suzuki_(chemist)
+2010,medicine,Robert G. Edwards,/wiki/Robert_G._Edwards
+2010,literature,Mario Vargas Llosa,/wiki/Mario_Vargas_Llosa
+2010,peace,Liu Xiaobo,/wiki/Liu_Xiaobo
+2010,peace,[f],#cite_note-F-21
+2010,economics,Peter A. Diamond,/wiki/Peter_Diamond
+2010,economics,Dale T.  Mortensen,/wiki/Dale_T._Mortensen
+2010,economics,Christopher A.  Pissarides,/wiki/Christopher_A._Pissarides
+2011,physics,Saul Perlmutter,/wiki/Saul_Perlmutter
+2011,physics,Adam G. Riess,/wiki/Adam_Riess
+2011,physics,Brian Schmidt,/wiki/Brian_Schmidt
+2011,chemistry,Dan Shechtman,/wiki/Dan_Shechtman
+2011,medicine,Bruce Beutler,/wiki/Bruce_Beutler
+2011,medicine,Jules A. Hoffmann,/wiki/Jules_A._Hoffmann
+2011,medicine,Ralph M.  Steinman,/wiki/Ralph_M._Steinman
+2011,literature,Tomas Tranströmer,/wiki/Tomas_Transtr%C3%B6mer
+2011,peace,Ellen Johnson Sirleaf,/wiki/Ellen_Johnson_Sirleaf
+2011,peace,Leymah Gbowee,/wiki/Leymah_Gbowee
+2011,peace,Tawakel Karman,/wiki/Tawakel_Karman
+2011,economics,Thomas J. Sargent,/wiki/Thomas_J._Sargent
+2011,economics,Christopher A. Sims,/wiki/Christopher_A._Sims
+2012,physics,Serge Haroche,/wiki/Serge_Haroche
+2012,physics,David  J. Wineland,/wiki/David_J._Wineland
+2012,chemistry,Brian K. Kobilka,/wiki/Brian_Kobilka
+2012,chemistry,Robert J. Lefkowitz,/wiki/Robert_Lefkowitz
+2012,medicine,John B. Gurdon,/wiki/John_Gurdon
+2012,medicine, Shinya Yamanaka,/wiki/Shinya_Yamanaka
+2012,literature,Mo Yan,/wiki/Mo_Yan
+2012,peace,European Union,/wiki/European_Union
+2012,economics,Alvin E. Roth,/wiki/Alvin_E._Roth
+2012,economics,Lloyd S. Shapley,/wiki/Lloyd_Shapley
+2013,physics,François Englert,/wiki/Fran%C3%A7ois_Englert
+2013,physics,Peter W. Higgs,/wiki/Peter_Higgs
+2013,chemistry,Martin Karplus,/wiki/Martin_Karplus
+2013,chemistry,Michael Levitt,/wiki/Michael_Levitt
+2013,chemistry,Arieh Warshel,/wiki/Arieh_Warshel
+2013,medicine,James E. Rothman,/wiki/James_Rothman
+2013,medicine,Randy W. Schekman,/wiki/Randy_W._Schekman
+2013,medicine,Thomas C. Südhof,/wiki/Thomas_C._S%C3%BCdhof
+2013,literature,Alice Munro,/wiki/Alice_Munro
+2013,peace,Organisation for the Prohibition of Chemical Weapons,/wiki/Organisation_for_the_Prohibition_of_Chemical_Weapons
+2013,economics,Eugene F. Fama,/wiki/Eugene_Fama
+2013,economics,Lars Peter Hansen,/wiki/Lars_Peter_Hansen
+2013,economics,Robert J. Shiller,/wiki/Robert_Shiller
+2014,physics,Isamu Akasaki,/wiki/Isamu_Akasaki
+2014,physics,Hiroshi Amano,/wiki/Hiroshi_Amano
+2014,physics,Shuji Nakamura,/wiki/Shuji_Nakamura
+2014,chemistry,Eric Betzig,/wiki/Eric_Betzig
+2014,chemistry,Stefan Hell,/wiki/Stefan_Hell
+2014,chemistry,William Moerner,/wiki/William_Moerner
+2014,medicine,John O'Keefe,/wiki/John_O%27Keefe_(neuroscientist)
+2014,medicine,May-Britt Moser,/wiki/May-Britt_Moser
+2014,medicine,Edvard  Moser,/wiki/Edvard_Moser
+2014,literature,Patrick Modiano,/wiki/Patrick_Modiano
+2014,peace,Kailash Satyarthi,/wiki/Kailash_Satyarthi
+2014,peace,Malala Yousafzai,/wiki/Malala_Yousafzai
+2014,economics,Jean Tirole,/wiki/Jean_Tirole
+2015,physics,Takaaki Kajita,/wiki/Takaaki_Kajita
+2015,physics,Arthur B. McDonald,/wiki/Arthur_B._McDonald
+2015,chemistry,Tomas Lindahl,/wiki/Tomas_Lindahl
+2015,chemistry,Paul L. Modrich,/wiki/Paul_Modrich
+2015,chemistry,Aziz Sancar,/wiki/Aziz_Sancar
+2015,medicine,William C. Campbell,/wiki/William_C._Campbell_(scientist)
+2015,medicine,Satoshi Ōmura,/wiki/Satoshi_%C5%8Cmura
+2015,medicine,Tu Youyou,/wiki/Tu_Youyou
+2015,literature,Svetlana Alexievich,/wiki/Svetlana_Alexievich
+2015,peace,Tunisian National Dialogue Quartet,/wiki/Tunisian_National_Dialogue_Quartet
+2015,economics,Angus Deaton,/wiki/Angus_Deaton
+2016,physics,David J. Thouless,/wiki/David_J._Thouless
+2016,physics,Duncan Haldane,/wiki/Duncan_Haldane
+2016,physics,John M. Kosterlitz,/wiki/John_M._Kosterlitz
+2016,chemistry,Jean-Pierre Sauvage,/wiki/Jean-Pierre_Sauvage
+2016,chemistry,Fraser Stoddart,/wiki/Fraser_Stoddart
+2016,chemistry,Ben Feringa,/wiki/Ben_Feringa
+2016,medicine,Yoshinori Ohsumi,/wiki/Yoshinori_Ohsumi
+2016,literature,Bob Dylan,/wiki/Bob_Dylan
+2016,peace,Juan Manuel Santos,/wiki/Juan_Manuel_Santos
+2016,economics,Oliver Hart,/wiki/Oliver_Hart_(economist)
+2016,economics,Bengt R. Holmström,/wiki/Bengt_R._Holmstr%C3%B6m
+2017,physics,Rainer Weiss,/wiki/Rainer_Weiss
+2017,physics,Barry Barish,/wiki/Barry_Barish
+2017,physics,Kip Thorne,/wiki/Kip_Thorne
+2017,chemistry,Jacques Dubochet,/wiki/Jacques_Dubochet
+2017,chemistry,Joachim Frank,/wiki/Joachim_Frank
+2017,chemistry,Richard Henderson,/wiki/Richard_Henderson_(biologist)
+2017,medicine,Jeffrey C. Hall,/wiki/Jeffrey_C._Hall
+2017,medicine,Michael Rosbash,/wiki/Michael_Rosbash
+2017,medicine,Michael W. Young,/wiki/Michael_W._Young
+2017,literature,Kazuo Ishiguro,/wiki/Kazuo_Ishiguro
+2017,peace,International Campaign to Abolish Nuclear Weapons,/wiki/International_Campaign_to_Abolish_Nuclear_Weapons
+2017,economics,Richard Thaler,/wiki/Richard_Thaler
+2018,physics,Arthur Ashkin,/wiki/Arthur_Ashkin
+2018,physics,Gérard Mourou,/wiki/G%C3%A9rard_Mourou
+2018,physics,Donna Strickland,/wiki/Donna_Strickland
+2018,chemistry,Frances H. Arnold,/wiki/Frances_H._Arnold
+2018,chemistry,George P. Smith,/wiki/George_P._Smith_(chemist)
+2018,chemistry,Greg Winter,/wiki/Greg_Winter
+2018,medicine,James P. Allison,/wiki/James_P._Allison
+2018,medicine,Tasuku Honjo,/wiki/Tasuku_Honjo
+2018,literature,Olga Tokarczuk,/wiki/Olga_Tokarczuk
+2018,literature,[g],#cite_note-G-23
+2018,peace,Denis Mukwege,/wiki/Denis_Mukwege
+2018,peace,Nadia Murad,/wiki/Nadia_Murad
+2018,economics,William Nordhaus,/wiki/William_Nordhaus
+2018,economics,Paul Romer,/wiki/Paul_Romer
+2019,physics,James Peebles,/wiki/Jim_Peebles
+2019,physics,Michel Mayor,/wiki/Michel_Mayor
+2019,physics,Didier Queloz,/wiki/Didier_Queloz
+2019,chemistry,John B. Goodenough,/wiki/John_B._Goodenough
+2019,chemistry,M. Stanley Whittingham,/wiki/M._Stanley_Whittingham
+2019,chemistry,Akira Yoshino,/wiki/Akira_Yoshino
+2019,medicine,William Kaelin Jr.,/wiki/William_Kaelin_Jr.
+2019,medicine,Peter J. Ratcliffe,/wiki/Peter_J._Ratcliffe
+2019,medicine,Gregg L. Semenza,/wiki/Gregg_L._Semenza
+2019,literature,Peter Handke,/wiki/Peter_Handke
+2019,peace,Abiy Ahmed,/wiki/Abiy_Ahmed
+2019,economics,Abhijit Banerjee,/wiki/Abhijit_Banerjee
+2019,economics,Esther Duflo,/wiki/Esther_Duflo
+2019,economics,Michael Kremer,/wiki/Michael_Kremer
+2020,physics,Roger Penrose,/wiki/Roger_Penrose
+2020,physics,Reinhard Genzel,/wiki/Reinhard_Genzel
+2020,physics,Andrea M. Ghez,/wiki/Andrea_M._Ghez
+2020,chemistry,Emmanuelle Charpentier,/wiki/Emmanuelle_Charpentier
+2020,chemistry,Jennifer Doudna,/wiki/Jennifer_Doudna
+2020,medicine,Harvey J. Alter,/wiki/Harvey_J._Alter
+2020,medicine,Michael Houghton,/wiki/Michael_Houghton_(virologist)
+2020,medicine,Charles M. Rice,/wiki/Charles_M._Rice
+2020,literature,Louise Glück,/wiki/Louise_Gl%C3%BCck
+2020,peace,World Food Programme,/wiki/World_Food_Programme
+2020,economics,Paul R. Milgrom,/wiki/Paul_Milgrom
+2020,economics,Robert B. Wilson,/wiki/Robert_B._Wilson
